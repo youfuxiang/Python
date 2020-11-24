@@ -1,5 +1,6 @@
 #Load Lines from File
 #strip '\n' in each line.
+#Output each line of the file to a list, then return the list.
 
 def Func_load_lines(path):
     lines = []
